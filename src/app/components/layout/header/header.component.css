@@ -1,0 +1,15 @@
+.header {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+.h1 {
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Sansita Swashed', cursive;
+}
+a {
+    color: #fff;
+}
